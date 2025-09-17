@@ -1,0 +1,18 @@
+.header {
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+
+.header ul {
+  list-style-type: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.header a {
+  color: white;
+}
